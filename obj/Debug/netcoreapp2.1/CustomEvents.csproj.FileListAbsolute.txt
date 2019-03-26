@@ -1,0 +1,11 @@
+D:\dev\csharp\CustomEvents\CustomEvents\bin\Debug\netcoreapp2.1\CustomEvents.deps.json
+D:\dev\csharp\CustomEvents\CustomEvents\bin\Debug\netcoreapp2.1\CustomEvents.runtimeconfig.json
+D:\dev\csharp\CustomEvents\CustomEvents\bin\Debug\netcoreapp2.1\CustomEvents.runtimeconfig.dev.json
+D:\dev\csharp\CustomEvents\CustomEvents\bin\Debug\netcoreapp2.1\CustomEvents.dll
+D:\dev\csharp\CustomEvents\CustomEvents\bin\Debug\netcoreapp2.1\CustomEvents.pdb
+D:\dev\csharp\CustomEvents\CustomEvents\obj\Debug\netcoreapp2.1\CustomEvents.csprojAssemblyReference.cache
+D:\dev\csharp\CustomEvents\CustomEvents\obj\Debug\netcoreapp2.1\CustomEvents.csproj.CoreCompileInputs.cache
+D:\dev\csharp\CustomEvents\CustomEvents\obj\Debug\netcoreapp2.1\CustomEvents.AssemblyInfoInputs.cache
+D:\dev\csharp\CustomEvents\CustomEvents\obj\Debug\netcoreapp2.1\CustomEvents.AssemblyInfo.cs
+D:\dev\csharp\CustomEvents\CustomEvents\obj\Debug\netcoreapp2.1\CustomEvents.dll
+D:\dev\csharp\CustomEvents\CustomEvents\obj\Debug\netcoreapp2.1\CustomEvents.pdb
